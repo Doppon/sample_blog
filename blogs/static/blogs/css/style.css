@@ -18,12 +18,12 @@ h1, h2, h3 {
 }
 
 a {
-  color: #6495ed;
+  color: #192231;
   text-decoration: none;
 }
 
 a.act {
-  color: #ff5252;
+  color: #192231;
   font-weight: bold;
 }
 
@@ -172,7 +172,7 @@ header .site-name a {
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  background-color: #4CAF50;
+  background-color: #5ac1d4;
   border-radius: 12px;
 }
 
